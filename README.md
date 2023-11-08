@@ -5,3 +5,7 @@
 ```
 touch sample.txt
 ```
+* ファイルの削除（ファイル名 : sample）
+```
+rm sample.txt
+```
