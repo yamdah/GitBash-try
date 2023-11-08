@@ -1,3 +1,4 @@
 # gitbash-try
 
-# GitBash（Shell）の操作実習
+## GitBash（Shell）での操作実習
+* ファイルの作成
