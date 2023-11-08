@@ -1,4 +1,4 @@
-# gitbash-try
+# GitBash-try
 
 ## GitBash（Shell）での操作実習
 * 環境設定（ユーザー名 : user / メールアドレス : gitUser@email.com）
