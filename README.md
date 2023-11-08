@@ -14,3 +14,13 @@ touch sample.txt
 ```
 rm sample.txt
 ```
+
+* ファイル変更内容の登録（インデックスに登録）
+```
+git add sample.text
+```
+
+* ファイルのコミット（ローカルリポジトリへのインデックス内容のコミット）
+```
+git commit
+```
